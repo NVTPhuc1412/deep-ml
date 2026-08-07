@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:50:43.709Z",
+  "generated_at": "2026-09-22T21:50:45.731Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -39,6 +39,123 @@
       "last_pushed_at": "2026-05-12T13:23:53.140Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-07T13:31:52.824Z",
+      "last_pushed_at": "2026-08-07T13:31:52.824Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-07T13:40:44.307Z",
+      "last_pushed_at": "2026-08-07T13:40:44.307Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-07T13:44:38.863Z",
+      "last_pushed_at": "2026-08-07T13:44:38.863Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-07T13:55:44.240Z",
+      "last_pushed_at": "2026-08-07T13:55:44.240Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-07T14:31:04.806Z",
+      "last_pushed_at": "2026-08-07T14:31:04.806Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-08-07T14:35:43.710Z",
+      "last_pushed_at": "2026-08-07T14:35:43.710Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-08-07T14:43:14.602Z",
+      "last_pushed_at": "2026-08-07T14:43:14.602Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-08-07T15:14:56.741Z",
+      "last_pushed_at": "2026-08-07T15:14:56.741Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:285": {
+      "kind": "problem",
+      "id": "285",
+      "title": "Decision Tree Pruning with Cost-Complexity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/285",
+      "path": "problems/0285-decision-tree-pruning-with-cost-complexity",
+      "first_solved_at": "2026-08-07T16:40:43.054Z",
+      "last_pushed_at": "2026-08-07T16:40:43.054Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
