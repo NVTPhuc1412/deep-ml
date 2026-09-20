@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:50:49.983Z",
+  "generated_at": "2026-09-22T21:50:51.909Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -221,6 +221,32 @@
       "last_pushed_at": "2026-09-19T17:40:50.947Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-20T09:06:29.341Z",
+      "last_pushed_at": "2026-09-20T09:06:29.341Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2026-09-20T09:53:55.658Z",
+      "last_pushed_at": "2026-09-20T09:53:55.658Z",
+      "language": "python",
+      "lines": 75
     }
   }
 }
