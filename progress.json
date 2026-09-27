@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T03:54:39.035Z",
+  "generated_at": "2026-09-27T12:35:34.100Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -309,9 +309,9 @@
       "url": "https://www.deep-ml.com/problems/41",
       "path": "problems/0041-simple-convolutional-2d-layer",
       "first_solved_at": "2026-09-27T03:54:38.153Z",
-      "last_pushed_at": "2026-09-27T03:54:38.153Z",
+      "last_pushed_at": "2026-09-27T12:35:32.709Z",
       "language": "python",
-      "lines": 24
+      "lines": 16
     }
   }
 }
