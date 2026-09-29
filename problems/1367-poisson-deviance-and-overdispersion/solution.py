@@ -4,7 +4,7 @@ import numpy as np
 def poisson_deviance(y: np.ndarray, mu: np.ndarray) -> float:
     """Poisson deviance, using the convention 0 * log(0) = 0."""
     # Your code here
-    y_ = np.where(y!=0, y, 1)
+    y_ = np.where(y!=0, y, mu)
     return 2 * (y * np.log(y_/mu) - (y-mu)).sum()
 
 

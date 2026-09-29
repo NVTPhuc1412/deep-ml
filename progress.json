@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:14:14.642Z",
+  "generated_at": "2026-09-29T15:14:49.061Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -374,7 +374,7 @@
       "url": "https://www.deep-ml.com/problems/1367",
       "path": "problems/1367-poisson-deviance-and-overdispersion",
       "first_solved_at": "2026-09-29T15:14:09.808Z",
-      "last_pushed_at": "2026-09-29T15:14:09.808Z",
+      "last_pushed_at": "2026-09-29T15:14:46.637Z",
       "language": "python",
       "lines": 15
     }
